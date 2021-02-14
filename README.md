@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Overview
-
+The purpose of the analysis was to assess if certain cryptocurrencies are tradable based on various criteria. The analysis used unsupervised machine learning algorithms and accomplished this task by preprocesssing data for principal component analysis (PCA), reducing dimensions for PCA, clustering by K-means, then visualizing the results
 
 ## Results
 
